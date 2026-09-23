@@ -1,68 +1,56 @@
-# ir-mettering-with-reveni-labs-SPOT-METER-mk2
-The reveni labs spotmetter mk2 is a great tool but has infrared sensivity (who is fix on v1.8 frimeware)
+# IR Metering with Reveni Labs SPOT METER mk2
 
-beacause of the extended ir secivity, the metter can be use for mettering for infrared film whith ir pass filter by placing the filter in front of the metter 
+The Reveni Labs Spot Meter mk2 is a great tool, but it has infrared sensitivity (which is fixed in the v1.8 firmware).
 
-i have ran some bracketing to find an "ir filtered ISO" for the spot mettering, where you can chose an iso depending on how muth you want the foliage to be white and then ame at the folage with the filter in front and get your exposure! 
+Because of this extended IR sensitivity, the meter can be used for metering infrared film with an IR pass filter by simply placing the filter in front of the meter.
 
-i have tested the only 2 infrared film reaillly available on the market, the ilford sfx and agfa avipot 200 (aka rolley infrared, retro 400s, superpan 200) (i noticed that after getting each of thoos film to i decided to dev them at different spped, 100, 200 and 400 iso) 
+I have run some bracketing to find an "IR filtered ISO" for spot metering, where you can choose an ISO depending on how much you want the foliage to be white. You just aim at the foliage with the filter in front and get your exposure!
 
-special thanks to u/Kareem-Abdul-Jabroni for giving me those film to test!!
+I tested the only two infrared films readily available on the market: Ilford SFX and Agfa Aviphot 200 (aka Rollei Infrared, Retro 400s, Superpan 200). Since they are the same and already got theme when, I decided to develop them at different speeds: 100, 200, and 400 ISO.
 
-## Result 
+Special thanks to u/Kareem-Abdul-Jabroni for giving me these films to test!!
 
-<img width="5600" height="941" alt="it_spot_SFX+Neewer IR720" src="https://github.com/user-attachments/assets/b28cf8a4-6852-4fb7-aafb-025c348b1149" />
-
-<img width="5600" height="941" alt="ir_spot_AVIPOT200_@100+Neewer IR720" src="https://github.com/user-attachments/assets/9390d857-5ddb-42fa-8ab5-c340e770c80a" />
-
-<img width="5600" height="941" alt="ir_spot_AVIPOT200_@200+Neewer IR720" src="https://github.com/user-attachments/assets/fa5be1b8-34d1-4b27-b076-625c994dbb72" />
-
-<img width="5600" height="941" alt="ir_spot_AVIPOT200_@400+Neewer IR720" src="https://github.com/user-attachments/assets/a95254ad-4bd8-4788-9028-ab04fd0292fa" />
+## Results
 
 
-### developement
+<img width="5600" height="941" alt="it_spot_SFX+Neewer IR720" src="https://github.com/user-attachments/assets/e5b8f1a3-2837-4294-bc27-8ecbe5aa157d" />
 
-I used rodinal 1+50 at 20° and agitation evey 2min for everything 
+<img width="5600" height="941" alt="ir_spot_AVIPOT200_@100+Neewer IR720" src="https://github.com/user-attachments/assets/1054f121-76bb-4404-b2dd-d53f6361a0f1" />
 
+<img width="5600" height="941" alt="ir_spot_AVIPOT200_@200+Neewer IR720" src="https://github.com/user-attachments/assets/430b77d4-b620-4f0c-9508-5e4c9246150d" />
 
-is for the time i compared what i found on the massive dev chart and setteled on:
-
--ilford sfx : 10 min
-
--avipot @100: 15 min
-
--avipot @200: 17 min
-
--avipot @400: 22 min
+<img width="5600" height="941" alt="ir_spot_AVIPOT200_@400+Neewer IR720" src="https://github.com/user-attachments/assets/1454dc3a-ff27-4df0-843a-5a4d9bf83b56" />
 
 
-but times on the massiv dev chart ar not very acurate and quit random, developing with on other developer at those specified iso might not get the exacte same result
+### Development Times
 
+I used Rodinal 1+50 at 20°C with agitation every 2 mins for everything.
 
-### The shooting
+For the times, I compared what I found on the Massive Dev Chart and settled on:
 
-For the shooting i use m'y Nikon f3 with makinon 28mm f2.8 @f4 and I chose a sunny cloudless day.
+* Ilford SFX: 10 min
+* Aviphot @100: 15 min
+* Aviphot @200: 17 min
+* Aviphot @400: 22 min
 
-I meteres whith thé filter in front and aim at a dense and uniformly lit végétation,
+However, times on the Massive Dev Chart are not always very accurate and can be quite random. Developing with another developer at these specified ISOs might not yield the exact same results.
 
-and making everything in a notebook while shooting
+### The Shooting
 
+For the shooting, I used my Nikon F3 with a Makinon 28mm f/2.8 @ f/4 with Neewer720 filter, and I chose a sunny, cloudless day.
 
-### développement 
+I metered with the filter in front, aiming at dense and uniformly lit vegetation, and wrote everything down in a notebook while shooting.
 
-for the development cut my films to get the 7 evpodite on the tank and save the rest of the film for later,
+### Development Process
 
-i fill a large buket with water then cool it white ice until its at 20° then put ice again during the process if the température rise, it stay +-1°c 
+For the development, I cut my films to get the 7 exposures into the tank and saved the rest of the film for later.
 
-as for the agitation, i agitate avery 2 min
+I filled a large bucket with water, cooled it with ice until it was at 20°C, and then added ice again during the process if the temperature rose, keeping it within +/- 1°C.
 
+As for the agitation, I agitated every 2 minutes.
 
-### scanning 
+### Scanning
 
-i use a sony a7II, exposed to get the base a littel bit before clipping, same exposure for the intire roll 
+I used a Sony A7II, exposing to get the base a little bit before clipping, using the same exposure for the entire roll.
 
-then importing to lightroom clasic, white balancing, then "pipeting" the base and film leader in the cure and inverting from thes two point and cooping tha parameter to every frames of thr roll 
-
-
-
-
+Then I imported the files to Lightroom Classic, set the white balance, used the color picker ("pipette") on the film base and leader in the tone curve, inverted from these two points, and copied the parameters to every frame of the roll.
