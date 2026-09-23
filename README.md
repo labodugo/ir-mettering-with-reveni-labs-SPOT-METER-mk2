@@ -18,8 +18,31 @@ special thanks to r/marchinmachin for giving me those film to test!!
 
 ### developement
 
-for the developement i decided to use rodinal a it cheap, and verry popular (and have it in hands), but the development times i fond onlyne are quite random for the avipot at 1+50, i have settelend on 22min at 400, 17min at 200, 15 at 100
+I used rodinal 1+50 at 20° and agitation evey 2min for everything 
 
+
+is for the time i compared what i found on the massive dev chart and setteled on:
+
+-ilford sfx : 10 min
+-avipot @100: 15 min
+-avipot @200: 17 min
+-avipot @400: 22 min
+
+
+### The shooting
+
+For the shooting i use m'y Nikon f3 with makinon 28mm f2.8 @f4 and I chose a sunny cloudless day.
+
+I meteres whith thé filter in front and aim at a dense and uniformly lit végétation,
+
+and making everything in a notebook while shooting
+
+
+### développement 
+
+for the development cut my films to get the 7 evpodite on the tank and save the rest of the film for later,
+
+i fill a large buket with water then cool it white ice until its at 20° then put ice again during the process if the température rise, it stay +-1°c 
 
 
 
