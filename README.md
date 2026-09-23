@@ -12,14 +12,18 @@ Special thanks to u/Kareem-Abdul-Jabroni for giving me these films to test!!
 
 ## Results
 
+<img width="5600" height="941" alt="it_spot_SFX+Neewer IR720_v2" src="https://github.com/user-attachments/assets/db4c6e9c-1c34-449d-83c9-a7c48da5075d" />
 
-<img width="5600" height="941" alt="it_spot_SFX+Neewer IR720" src="https://github.com/user-attachments/assets/e5b8f1a3-2837-4294-bc27-8ecbe5aa157d" />
+<img width="5600" height="941" alt="ir_spot_AVIPOT200_@100+Neewer IR720_v2" src="https://github.com/user-attachments/assets/d8dafaf5-b5a0-419e-b7c6-e3bda5af135e" />
 
-<img width="5600" height="941" alt="ir_spot_AVIPOT200_@100+Neewer IR720" src="https://github.com/user-attachments/assets/1054f121-76bb-4404-b2dd-d53f6361a0f1" />
+<img width="5600" height="941" alt="ir_spot_AVIPOT200_@200+Neewer IR720_v2" src="https://github.com/user-attachments/assets/86bd6cb8-5c0a-4654-9284-41f4af08c708" />
 
-<img width="5600" height="941" alt="ir_spot_AVIPOT200_@200+Neewer IR720" src="https://github.com/user-attachments/assets/430b77d4-b620-4f0c-9508-5e4c9246150d" />
+<img width="5600" height="941" alt="ir_spot_AVIPOT200_@400+Neewer IR720_v2" src="https://github.com/user-attachments/assets/94072b1a-c81f-434b-9e92-a4deeab54136" />
 
-<img width="5600" height="941" alt="ir_spot_AVIPOT200_@400+Neewer IR720" src="https://github.com/user-attachments/assets/1454dc3a-ff27-4df0-843a-5a4d9bf83b56" />
+
+
+
+
 
 
 ### Development Times
