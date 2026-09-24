@@ -43,10 +43,10 @@ However, times on the Massive Dev Chart are not always very accurate and can be 
 
 here are the différents times i fond on the chart, on the back of my bottle of rodinal and on the datasheet of theis films  at 1+50 20°C, i exluded Times who compensated for the filter effect. 
 
-*SFX    @200:10 min,
-*avipot @100: 15min, 
-*avipot @200: 17min, 9 min(1+43), 17 min, 17min box)
-*avipot @400: 22min, 22min, 22min(box)
+* SFX    @200:10 min,
+*bavipot @100: 15min, 
+* avipot @200: 17min, 9 min(1+43), 17 min, 17min box)
+* avipot @400: 22min, 22min, 22min(box)
 
 
 
